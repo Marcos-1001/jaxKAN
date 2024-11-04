@@ -8,7 +8,7 @@ setup(
         'scipy==1.13.1',
         'numpy==1.26.4',
         'flax==0.8.3',
-        'jax[cpu]==0.4.28',
+        'jax[cpu]==0.4.29',
         'optax==0.2.2',
     ],
     extras_require={
